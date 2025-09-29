@@ -1,0 +1,10 @@
+package com.bbva.tpIntegrador;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class TpIntegradorApplicationTests {
+
+
+}
